@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"67000","Jumlah_Dirawat":"4111","Jumlah_Sembuh":"345245","Jumlah_Meninggal":"4005","Nama_Operator":"Mochamad Rizky Alhusein","NIM_Mahasiswa":"191011402670"}
