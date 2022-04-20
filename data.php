@@ -3,6 +3,7 @@
 <head>
 <title>Data Pasien Virus Covid-19</title>
 </head>
+</html>
 
 <?php
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -81,4 +82,3 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     </tbody>
   </table>
 </div>
-</html>
